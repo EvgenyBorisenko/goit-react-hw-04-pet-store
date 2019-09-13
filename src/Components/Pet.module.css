@@ -1,0 +1,20 @@
+.wrapp {
+  display: flex;
+}
+
+.image {
+  display: block;
+  width: 300px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.text {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.data {
+  font-size: 14px;
+  font-weight: 400;
+}
